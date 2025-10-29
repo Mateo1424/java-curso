@@ -1,1 +1,3 @@
-let nombre = "";
+ nombre = "";
+
+console.log();
